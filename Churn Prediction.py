@@ -58,7 +58,7 @@ df_predict = user_input()
 st.subheader("Fitur yang Dimasukkan:")
 st.write(df_predict)
 
-model_loaded = pickle.load(open('/Users/LENOVO/OneDrive/ドキュメント/Latihan Data Analyst/Final Project/Churn_Model_XGB.sav','rb'))
+model_loaded = pickle.load(open("Churn_Model_XGB.sav", "rb"))
 
 prediksi = model_loaded.predict(df_predict)[0]
 
