@@ -8,7 +8,7 @@ Project ini dibuat sebagai **Final Project** untuk memprediksi kemungkinan pelan
 
 ## Deskripsi Project
 Tujuan dari project ini adalah:
-- Memprediksi pelanggan yang berisiko churn berdasarkan data pelanggan.
+- Menganalisis dan memprediksi perilaku pelanggan yang berisiko churn berdasarkan data pelanggan.
 - Menyajikan hasil analisis dalam bentuk dashboard interaktif (Tableau).
 - Mengembangkan model machine learning dan melakukan deployment menggunakan Streamlit.
 
