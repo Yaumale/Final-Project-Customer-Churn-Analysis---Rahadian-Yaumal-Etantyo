@@ -19,42 +19,32 @@ Dashboard interaktif dapat diakses melalui link berikut:
  [Tableau Dashboard](https://public.tableau.com/views/FinproTableu/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Screenshot Dashboard
-![Dashboard ](images/dashboard1.png)
-![Dashboard ](images/dashboard2.png)
-![Dashboard ](images/dashboard3.png)
+![Dashboard ](img/Tableu1.png)
+![Dashboard ](img/Tableu2.png)
+![Dashboard ](img/Tableu3.png)
 
 ---
 
 ## Streamlit Deployment
 Aplikasi model prediksi churn dapat diakses di link berikut:  
-👉 [Streamlit App](https://link-streamlit-app.com)
+[Streamlit App](https://churnpred-pjwtwktpgfbrs3b5unsz9g.streamlit.app/)
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
-- **Python** (pandas, scikit-learn, xgboost, matplotlib, seaborn)
+## Teknologi yang Digunakan
+- **Python** 
 - **Jupyter Notebook**
 - **Tableau Public**
 - **Streamlit** (untuk deployment)
 - **GitHub** (untuk version control dan repository)
 
----
 
-## 📂 Struktur Repository
-- `Final Project - Rahadian Yaumal Etantyo.ipynb` → Notebook utama (EDA, preprocessing, modeling, evaluasi).  
-- `images/` → Folder berisi screenshot dashboard Tableau.  
-- `requirements.txt` → Daftar dependencies Python.  
-- `README.md` → Dokumentasi project.  
 
----
+## Insight Utama
+- Churn tertinggi terjadi pada pelanggan tenure 0–1 bulan.  
+- Banyak churn muncul pada 0–3 hari setelah order pertama.  
+- Pelanggan yang komplain memiliki kecenderungan churn lebih tinggi.  
+- Jarak pengiriman jauh berkontribusi pada churn.  
 
-## 💡 Insight Utama
-- Churn tertinggi terjadi pada pelanggan **tenure 0–1 bulan**.  
-- Banyak churn muncul pada **0–3 hari setelah order pertama**.  
-- **Pelanggan yang komplain** memiliki kecenderungan churn lebih tinggi.  
-- **Jarak pengiriman jauh** berkontribusi pada churn.  
-
----
-
-## 📜 Lisensi
+## Lisensi
 Project ini dibuat untuk keperluan akademik.  
