@@ -1,7 +1,7 @@
 # Customer Churn Analysis
 by Rahadian Yaumal Etantyo
 
-Project ini dibuat sebagai **Final Project** untuk memprediksi kemungkinan pelanggan melakukan churn dengan menggunakan model machine learning. Dataset yang digunakan berisi informasi pelanggan seperti tenure, status complain, jarak pengiriman, dan variabel lainnya.
+Project ini dibuat sebagai Final Project untuk memprediksi kemungkinan pelanggan melakukan churn dengan menggunakan model machine learning. Dataset yang digunakan berisi informasi pelanggan seperti tenure, status complain, jarak pengiriman, dan variabel lainnya.
 
 
 ---
@@ -44,7 +44,7 @@ Aplikasi model prediksi churn dapat diakses di link berikut:
 - Churn tertinggi terjadi pada pelanggan tenure 0–1 bulan.  
 - Banyak churn muncul pada 0–3 hari setelah order pertama.  
 - Pelanggan yang komplain memiliki kecenderungan churn lebih tinggi.  
-- Jarak pengiriman jauh berkontribusi pada churn.  
+- Jarak pengiriman berkontribusi pada churn.  
 
 ## Lisensi
 Project ini dibuat untuk keperluan akademik.  
