@@ -28,8 +28,9 @@ Dashboard interaktif dapat diakses melalui link berikut:
 ## Streamlit Deployment
 Aplikasi model prediksi churn dapat diakses di link berikut:  
 [Streamlit App](https://churnpred-pjwtwktpgfbrs3b5unsz9g.streamlit.app/)
+### Screenshot Deployment Machine Learning
 Screenshot Deployment Machine Learning
-![Steramlit]()
+![Steramlit ](img/strlit.png)
 
 ---
 
